@@ -1,0 +1,17 @@
+NODE LINKEDLIST - JAVA
+Explanation:
+Node Class:
+Represents a node with data and a reference to the next node (next).
+LinkedList Class:
+head is the starting point of the list.
+add(int data): Adds a new node with the specified data at the end of the list.
+delete(int data): Deletes the first node with the specified data.
+display(): Prints the entire list in a readable format.
+main() method: Demonstrates adding, deleting, and displaying nodes in the linked list.
+
+This will demonstrate basic operations on a singly linked list.
+
+
+
+
+
